@@ -1,0 +1,9 @@
+.userButtonWrapper{
+    width:50vw;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.userButtonWrapper:first-child{
+    margin-right: 20px;
+}

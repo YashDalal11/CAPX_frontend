@@ -1,0 +1,12 @@
+.Input{
+    background-color:#262626;
+    color:#fff;
+    border:none;
+    outline:none;
+    padding:10px;
+    font-size: 15px;
+    border-radius: 10px;
+}
+.Input::placeholder {
+    text-align: center;
+  }

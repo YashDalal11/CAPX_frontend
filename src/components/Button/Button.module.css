@@ -1,0 +1,25 @@
+.button{
+    background-color: #0077FF;
+    border:none;
+    outline:none;
+    cursor:pointer;
+    color:#fff;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    padding:10px 20px;
+    border-radius: 20px;
+    font-size: 15px;
+    margin: 20px 0;
+    transition: all 0.2s ease-in-out;
+    min-width:30%;
+}
+.rightArrow{
+    margin-left: 5px;
+}
+.button:hover{
+    background-color: #5453E0;
+    font-weight:bolder;
+    /* font-size: 16px; */
+}

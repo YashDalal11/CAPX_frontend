@@ -1,0 +1,24 @@
+.wrapper{
+    /* width:80vw; */
+    /* height:80vh; */
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: column;
+    /* background-color: red; */
+}
+.wrapper>*{
+    margin-bottom: 20px;
+}
+.select{
+    border-color: white;
+    margin-right: 100px;
+}
+#gender_inputlabel{
+    color: #fff;
+}
+.lowerWrapper{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
